@@ -1,0 +1,25 @@
+
+{
+  "name": "frontend-project-lvl1",
+  "version": "1.0.0",
+  "description": "My first project",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dimanms/frontend-project-lvl1.git"
+  },
+  "keywords": [
+    "Brain",
+    "Games"
+  ],
+  "author": "Krasovskiy Dmitriy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dimanms/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/Dimanms/frontend-project-lvl1#readme"
+}
